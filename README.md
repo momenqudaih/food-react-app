@@ -1,6 +1,8 @@
 # Food and Drink Menu App
 
 This is a simple React project that displays a menu of food and drinks, with the ability to filter the items based on their price and category.
+<h3>Demo</h3>
+https://main--reliable-douhua-a30f8a.netlify.app/
 
 ## Technology Stack
 This project was created using:
